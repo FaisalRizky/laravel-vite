@@ -8,8 +8,6 @@ This project provides a REST API for managing employees, including CRUD operatio
 Framework: Laravel
 Frontend Build Tool: Vite
 Authentication: Laravel Sanctum
-Database: [Specify if using SQLite, PostgreSQL, etc.]
-Other: [Add any other relevant technologies or tools]
 
 # ⚙️ Installation
 Prerequisites
@@ -19,12 +17,11 @@ Node.js >= 14.x
 npm or yarn
 
 # 📂 API Endpoints
-GET /api/employees: List all employees
-GET /api/employees/{id}: Get a specific employee by ID
-POST /api/employees: Create a new employee
-PUT /api/employees/{id}: Update an existing employee
-DELETE /api/employees/{id}: Delete an employee
-📈 GitHub Stats
+GET /api/employees: List all employees  
+GET /api/employees/{id}: Get a specific employee by ID  
+POST /api/employees: Create a new employee  
+PUT /api/employees/{id}: Update an existing employee  
+DELETE /api/employees/{id}: Delete an employee  
 
 # 📜 License
 This project is open-source and available under the MIT License.
